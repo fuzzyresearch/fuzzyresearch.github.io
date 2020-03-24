@@ -1,1 +1,1 @@
-# fuzzyresearch.github.io
+# Fuzzy Research
